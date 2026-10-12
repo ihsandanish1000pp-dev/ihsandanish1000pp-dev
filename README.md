@@ -42,3 +42,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 My Skills
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🎨 Frontend</h3>
+HTML5<br>
+CSS3<br>
+JavaScript<br>
+Bootstrap<br>
+Tailwind CSS
+</td>
+<td align="center" width="33%">
+<h3>⚛️ Frameworks</h3>
+React.js<br>
+Next.js
+</td>
+<td align="center" width="33%">
+<h3>🛠️ Tools</h3>
+Git<br>
+GitHub<br>
+VS Code
+</td>
+</tr>
+</table>
