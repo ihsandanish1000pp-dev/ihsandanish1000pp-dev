@@ -8,7 +8,7 @@
 
 <table width="100%">
   <tr>
-    <td width="33.33%" align="center" valign="top">
+    <td width="33.20%" align="center" valign="top">
 
 <h3>🎨 FRONTEND</h3>
 
