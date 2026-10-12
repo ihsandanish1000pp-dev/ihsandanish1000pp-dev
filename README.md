@@ -4,75 +4,62 @@
 </p>
 
 
+<table>
+  <tr>
+    <!-- Card 1: Profile -->
+    <td width="33%" valign="top">
+      <h3>👋 Profile</h3>
+      <p><b>Web Developer</b> focused on building scalable and high-performance web applications.</p>
+      <p>
+        📍 Rawalpindi, Pakistan<br>
+        🎓 B.Sc. Computer Science<br>
+        💼 Frontend / Backend / Full Stack<br>
+        🔬 Modern Web Technologies
+      </p>
+    </td>
 
-## 🚀 TECH STACK & SKILLS
+    <!-- Card 2: Core Focus -->
+    <td width="33%" valign="top">
+      <h3>💻 Core Focus</h3>
+      <ul>
+        <li>Frontend Development (React, Next.js)</li>
+        <li>Backend Engineering (Node.js, Express)</li>
+        <li>UI/UX & Responsive Design</li>
+        <li>Database Management (SQL & NoSQL)</li>
+        <li>API Integration & RESTful Services</li>
+        <li>Version Control & Git Workflows</li>
+      </ul>
+      <p><b>Workflow:</b><br>
+      Design ➔ Code ➔ Test ➔ Deploy</p>
+    </td>
 
-<table width="100%">
-<tr>
-<td width="33.33%" align="center" valign="top">
-
-<h3>🎨 FRONTEND</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js" height="40" alt="Frontend skills"/>
-
-<hr/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="150" alt="HTML5"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="150" alt="CSS3"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="150" alt="JavaScript"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" width="150" alt="Bootstrap"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" width="150" alt="Tailwind CSS"/>
-
-</td>
-<td width="33.33%" align="center" valign="top">
-
-<h3>⚛️ FRAMEWORKS</h3>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs" height="40" alt="Frameworks"/>
-
-<hr/>
-
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="150" alt="React.js"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" width="150" alt="Next.js"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Responsive_Design-30363D?style=for-the-badge&logo=css3&logoColor=white" width="150" alt="Responsive Design"/>
-
-</td>
-<td width="33.33%" align="center" valign="top">
-
-<h3>🛠️ DEVELOPER TOOLS</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" alt="Developer tools"/>
-
-<hr/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="150" alt="Git"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="150" alt="GitHub"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="150" alt="VS Code"/>
-
-</td>
-</tr>
+    <!-- Card 3: Current Direction -->
+    <td width="33%" valign="top">
+      <h3>🚀 Current Direction</h3>
+      <p>Building a stronger foundation in:</p>
+      <p>Full Stack Architecture · Cloud Services · Performance Optimization</p>
+      <p>Interested in modern web ecosystems, clean code architecture, and open-source contributions.</p>
+    </td>
+  </tr>
 </table>
+
+<br>
+
+<!-- Badges / Stats Section -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=555" alt="Followers" />
+</p>
+
+<!-- Social Links / Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
