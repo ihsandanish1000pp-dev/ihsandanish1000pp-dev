@@ -4,29 +4,28 @@
 </p>
 
 
-
 ## 🚀 TECH STACK & SKILLS
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
 
 ### 🎨 FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,js" width="120" alt="HTML CSS JavaScript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" width="150" alt="Frontend Skills"/>
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 ### ⚛️ FRAMEWORKS
 
-<img src="https://skillicons.dev/icons?i=react,nextjs" width="90" alt="React Next.js"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs" width="120" alt="Frameworks"/>
 
 <br/><br/>
 
@@ -37,11 +36,11 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
-### 🛠️ TOOLS
+### 🛠️ DEVELOPER TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" width="120" alt="Git GitHub VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" width="150" alt="Developer Tools"/>
 
 <br/><br/>
 
