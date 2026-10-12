@@ -34,32 +34,3 @@
 
 
 
-
-
-
-
-## 🚀 My Skills
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎨 Frontend</h3>
-      <p>HTML5</p>
-      <p>CSS3</p>
-      <p>JavaScript</p>
-      <p>Bootstrap</p>
-      <p>Tailwind CSS</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚛️ Frameworks</h3>
-      <p>React.js</p>
-      <p>Next.js</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠️ Tools</h3>
-      <p>Git</p>
-      <p>GitHub</p>
-      <p>VS Code</p>
-    </td>
-  </tr>
-</table>
