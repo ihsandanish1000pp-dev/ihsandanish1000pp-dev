@@ -73,4 +73,36 @@
       <p>React.js · Next.js</p>
     </td>
   </tr>
-</table>
+</table>   
+
+
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ihsandanish1000pp-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsandanish1000pp-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- **Fast Reach Website** — Responsive business website.
+- **Zad Academy Website** — Islamic educational website.
+- **SwisMax Services Website** — Multiple services portfolio.
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/ihsan-ullah-3a9528367
+- GitHub: https://github.com/ihsandanish1000pp-dev
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
