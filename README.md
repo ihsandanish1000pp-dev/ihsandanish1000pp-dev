@@ -10,9 +10,23 @@
   <tr>
     <td width="33.33%" align="center" valign="top">
 
-### 🎨 FRONTEND
+<h3>🎨 FRONTEND</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" width="150" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="48" alt="HTML CSS JavaScript"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
@@ -20,12 +34,12 @@
 
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
-</td>
-<td width="33.33%" align="center" valign="top">
+    </td>
+    <td width="33.33%" align="center" valign="top">
 
-### ⚛️ FRAMEWORKS
+<h3>⚛️ FRAMEWORKS</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs" width="120" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs" height="48" alt="React and Next.js"/>
 
 <br/><br/>
 
@@ -35,12 +49,16 @@
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 
-</td>
-<td width="33.33%" align="center" valign="top">
+<br/><br/>
 
-### 🛠️ DEVELOPER TOOLS
+<img src="https://img.shields.io/badge/Responsive_Design-30363D?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" width="150" alt="Developer Tools"/>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+
+<h3>🛠️ DEVELOPER TOOLS</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Git GitHub VS Code"/>
 
 <br/><br/>
 
@@ -54,6 +72,6 @@
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
