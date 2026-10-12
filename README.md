@@ -6,10 +6,6 @@
 
 
 
-#### ✅ Sahi Tariqa (Bina backticks / code block ke):
-Direct HTML tags se start aur end karein, aise:
-
-html
 <table>
   <tr>
     <!-- Card 1: Profile -->
@@ -52,21 +48,18 @@ html
 <br>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square)" alt="Profile views" />
-  <img src="[https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=555](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=555)" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=555" alt="Followers" />
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://yourportfolio.com](https://yourportfolio.com)">
-    <img src="[https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)" alt="Portfolio" />
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-
-
