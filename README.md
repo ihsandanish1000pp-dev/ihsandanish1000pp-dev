@@ -4,22 +4,22 @@
 </p>
 
 
-## 🚀 TECH STACK & SKILLS
+##  TECH STACK & SKILLS
 
 <table width="100%">
   <tr>
     <td width="33.33%" valign="top">
-      <h3>👋 Profile</h3>
+      <h3> Profile</h3>
       <p><b>Frontend Developer</b> focused on building responsive and user-friendly web applications.</p>
       <p>
-        📍 Rawalpindi, Pakistan<br/>
-        🎓 BS Computer Science<br/>
-        💼 Frontend Developer at SwisMax Solutions<br/>
-        🚀 Modern Web Technologies
+         Rawalpindi, Pakistan<br/>
+         BS Computer Science<br/>
+         Frontend Developer at SwisMax Solutions<br/>
+         Modern Web Technologies
       </p>
     </td>
     <td width="33.33%" valign="top">
-      <h3>💻 Core Skills</h3>
+      <h3> Core Skills</h3>
       <ul>
         <li>HTML5 & CSS3</li>
         <li>JavaScript</li>
@@ -32,7 +32,7 @@
       Plan → Design → Code → Deploy</p>
     </td>
     <td width="33.33%" valign="top">
-      <h3>🚀 Current Direction</h3>
+      <h3> Current Direction</h3>
       <p>Building modern and responsive web applications with:</p>
       <p><b>React.js · Next.js · JavaScript · Tailwind CSS</b></p>
       <p>Focused on clean code, responsive layouts, and practical real-world projects.</p>
@@ -51,7 +51,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 <table width="100%">
   <tr>
@@ -90,7 +90,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - **Fast Reach Website** — Responsive business website.
 - **Zad Academy Website** — Islamic educational website.
@@ -98,7 +98,7 @@
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - LinkedIn: https://linkedin.com/in/ihsan-ullah-3a9528367
 - GitHub: https://github.com/ihsandanish1000pp-dev
