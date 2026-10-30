@@ -58,11 +58,11 @@
     <td width="65%" valign="top">
       <p>I'm a Frontend Developer focused on building responsive, user-friendly web applications.</p>
       <ul>
-        <li>🎨 Modern UI Development</li>
-        <li>⚛️ React.js & Next.js</li>
-        <li>📱 Responsive Web Design</li>
-        <li>🧩 Reusable Components</li>
-        <li>🔧 Git & GitHub</li>
+        <li> Modern UI Development</li>
+        <li> React.js & Next.js</li>
+        <li> Responsive Web Design</li>
+        <li> Reusable Components</li>
+        <li> Git & GitHub</li>
       </ul>
       <p>I enjoy turning ideas into practical web experiences using modern frontend technologies.</p>
       <p><b>Current direction:</b> Improving my skills in React.js, Next.js, and full-stack development.</p>
