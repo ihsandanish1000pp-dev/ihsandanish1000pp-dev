@@ -1,25 +1,24 @@
-
+ 
 <p align="center">
-  <img src="08f02dc6-d77e-4b65-8e63-ec64163665c7.png" alt="Ihsan Ullah - Frontend Developer" width="100%">
+  <img src="08f02dc6-d77e-4b65-8e63-ec64163665c7.png" alt="Ihsan Ullah - Web Developer" width="100%">
 </p>
 
-
-##  TECH STACK & SKILLS
+## TECH STACK & SKILLS
 
 <table width="100%">
   <tr>
     <td width="33.33%" valign="top">
-      <h3> Profile</h3>
+      <h3>Profile</h3>
       <p><b>Frontend Developer</b> focused on building responsive and user-friendly web applications.</p>
       <p>
-         Rawalpindi, Pakistan<br/>
-         BS Computer Science<br/>
-         Frontend Developer at SwisMax Solutions<br/>
-         Modern Web Technologies
+        Rawalpindi, Pakistan<br/>
+        BS Computer Science<br/>
+        Frontend Developer at SwisMax Solutions<br/>
+        Modern Web Technologies
       </p>
     </td>
     <td width="33.33%" valign="top">
-      <h3> Core Skills</h3>
+      <h3>Core Skills</h3>
       <ul>
         <li>HTML5 & CSS3</li>
         <li>JavaScript</li>
@@ -27,15 +26,18 @@
         <li>Next.js</li>
         <li>Bootstrap & Tailwind CSS</li>
         <li>Responsive Web Design</li>
+        <li>Git & GitHub</li>
       </ul>
       <p><b>Workflow:</b><br/>
       Plan → Design → Code → Deploy</p>
     </td>
     <td width="33.33%" valign="top">
-      <h3> Current Direction</h3>
-      <p>Building modern and responsive web applications with:</p>
-      <p><b>React.js · Next.js · JavaScript · Tailwind CSS</b></p>
-      <p>Focused on clean code, responsive layouts, and practical real-world projects.</p>
+      <h3>Backend Learning</h3>
+      <ul>
+        <li>Node.js</li>
+        <li>Express.js</li>
+      </ul>
+      <p>Currently expanding my skills in backend development and the MERN Stack.</p>
     </td>
   </tr>
 </table>
@@ -51,33 +53,30 @@
 
 ---
 
-##  About Me
+## About Me
 
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <p>I'm a Frontend Developer focused on building responsive, user-friendly web applications.</p>
+      <p>I'm a Frontend Developer focused on building responsive, user-friendly web applications using modern web technologies.</p>
       <ul>
-        <li> Modern UI Development</li>
-        <li> React.js & Next.js</li>
-        <li> Responsive Web Design</li>
-        <li> Reusable Components</li>
-        <li> Git & GitHub</li>
+        <li>Modern UI Development</li>
+        <li>React.js & Next.js</li>
+        <li>Responsive Web Design</li>
+        <li>Reusable Components</li>
+        <li>Git & GitHub</li>
+        <li>Node.js & Express.js (Currently Learning)</li>
       </ul>
       <p>I enjoy turning ideas into practical web experiences using modern frontend technologies.</p>
-      <p><b>Current direction:</b> Improving my skills in React.js, Next.js, and full-stack development.</p>
+      <p><b>Current Direction:</b> Improving my frontend skills and learning backend development with Node.js and Express.js.</p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://github.com/ihsandanish1000pp-dev.png" width="180" alt="GitHub profile picture"/>
       <p><b>Frontend Developer</b></p>
-      <p>React.js · Next.js</p>
+      <p>React.js · Next.js · JavaScript</p>
     </td>
   </tr>
-</table>   
-
-
-
-
+</table>
 
 ---
 
@@ -90,7 +89,7 @@
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 - **Fast Reach Website** — Responsive business website.
 - **Zad Academy Website** — Islamic educational website.
@@ -98,7 +97,7 @@
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/ihsan-ullah-3a9528367
 - GitHub: https://github.com/ihsandanish1000pp-dev
